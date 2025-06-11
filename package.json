@@ -1,0 +1,42 @@
+{
+  "name": "prem-insta-video-downloader",
+  "version": "3.0.0",
+  "description": "THIS PROJECT IS MADE BY MR PREM BABU",
+  "main": "prem-babu/prem-instagram.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "setupFilesAfterEnv": [
+      "jest-extended/all"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prem-project3608/prem-insta-video-downloader.git"
+  },
+  "keywords": [
+    "PREM PROJECT",
+    "MR PREM BABU",
+    "PREM INSTAGRAM",
+    "PREM INSTAGRAM REELS",
+    "PREM INSTAGRAM POST",
+    "PREM INSTAGRAM DOWNLOADER",
+    "PREM AUTO DOWNLOADER",
+    "PREM IG DOWNLOADER"
+  ],
+  "author": "PREM BABU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prem-project3608.git"
+  },
+  "homepage": "https://github.com/prem-project3608/prem-ig-downloader#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "qs": "^6.13.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-extended": "^4.0.2"
+  }
+}
