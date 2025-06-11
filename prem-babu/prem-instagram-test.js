@@ -1,6 +1,6 @@
-const prem_instagramGetUrl = require("./prem-instagram")
+const prem_instagram = require("./prem-instagram")
 
-describe("prem_instagramGetUrl", ()=>{
+describe("prem_instagram", ()=>{
     test("Should successfully get multiple videos/images from the post", async ()=>{
         await expect(instagramGetUrl("https://www.instagram.com/p/CMAMhvgsVal")).toResolve()
     })
