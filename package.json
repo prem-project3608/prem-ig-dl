@@ -1,6 +1,6 @@
 {
-  "name": "prem-ig-downloader",
-  "version": "4.0.0",
+  "name": "prem-ig-dl",
+  "version": "5.0.0",
   "description": "THIS PROJECT IS MADE BY MR PREM BABU",
   "main": "prem-babu/prem-instagram.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prem-project3608/prem-ig-downloader.git"
+    "url": "git+https://github.com/prem-project3608/prem-ig-dl.git"
   },
   "keywords": [
     "PREM PROJECT",
@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/prem-project3608.git"
   },
-  "homepage": "https://github.com/prem-project3608/prem-ig-downloader.git#readme",
+  "homepage": "https://github.com/prem-project3608/prem-ig-dl.git#readme",
   "dependencies": {
     "axios": "^1.7.7",
     "qs": "^6.13.0"
