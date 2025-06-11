@@ -126,7 +126,7 @@ function createOutputData(requestData){
 }
 
 
-module.exports = prem_instagramGetUrl = (url_media) =>{
+module.exports = prem_instagram = (url_media) =>{
     return new Promise(async (resolve,reject)=>{
         try {
             const SHORTCODE = getShortcode(url_media)
